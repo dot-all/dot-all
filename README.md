@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there, I'm Allan
+Web Developer
 
-<!--
-**dot-all/dot-all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Recent graduate in Computer Science with a passion for web development. I have experience with React, Node, and other web technologies. I am always looking to learn new technologies and I am excited about the future of technology.
 
-Here are some ideas to get you started:
+🌍 I'm based in Chile
+🖥️ See my portfolio at here
+🧠 I'm learning Angular
+🤝 I'm open to collaborating on new challenges
+💬 Feel free to ask me anything on JavaScript, TypeScript, and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Java, JavaScript, Python, TypeScript.
+
+- **Frameworks/Libraries/Environments:** Express, JWT, Next, NodeJS, React, ReactRouter, Redux, TailwindCSS, Vite, Vue.
+- **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase.
+
+## Socials
+
+- TODO
