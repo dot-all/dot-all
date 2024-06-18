@@ -20,3 +20,4 @@ Recent graduate in Computer Science with a passion for web development. I have e
 ## Socials
 
 - [codepen](https://codepen.io/im-allan)
+- [LinkedIn](https://www.linkedin.com/in/im-allan/)
