@@ -1,5 +1,5 @@
-# Hey there, I'm Allan
-Web Developer
+<h1 align="center">Hey there, I'm Allan</h1>
+<p align="center">Web Developer</p>
 
 ## About Me
 Recent graduate in Computer Science with a passion for web development. I have experience with React, Node, and other web technologies. I am always looking to learn new technologies and I am excited about the future of technology.
