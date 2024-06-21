@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Allan</h1>
-<p align="center">Web Developer</p>
+<center>Web Developer</center>
 
 ## About Me
 Recent graduate in Computer Science with a passion for web development. I have experience with React, Node, and other web technologies. I am always looking to learn new technologies and I am excited about the future of technology.
@@ -16,7 +16,7 @@ Recent graduate in Computer Science with a passion for web development. I have e
 
 - **Frameworks/Libraries/Environments:** Express, JWT, Next, NodeJS, React, ReactRouter, Redux, TailwindCSS, Vite, Vue.
 - **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase.
-
+ 
 ## Socials
 
 - [codepen](https://codepen.io/im-allan)
