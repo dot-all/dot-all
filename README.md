@@ -16,7 +16,7 @@ Recent graduate in Computer Science with a passion for web development. I have e
 
 - **Frameworks/Libraries/Environments:** Express, JWT, Next, NodeJS, React, ReactRouter, Redux, TailwindCSS, Vite, Vue.
 - **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase.
- 
+  
 ## Socials
 
 - [codepen](https://codepen.io/im-allan)
