@@ -19,6 +19,6 @@ Recent graduate in Computer Science with a passion for web development. I have e
   
 ## Socials
 
-- [codepen](https://codepen.io/im-allan)
+- [CodePen](https://codepen.io/im-allan)
 - [exercism](https://exercism.org/profiles/dot-all)
 - [LinkedIn](https://www.linkedin.com/in/im-allan/)
