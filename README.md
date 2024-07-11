@@ -15,7 +15,7 @@ Recent graduate in Computer Science with a passion for web development. I have e
 - **Languages:** Java, JavaScript, Python, TypeScript.
 
 - **Frameworks/Libraries/Environments:** Express, Jest, JWT, Next, NodeJS, React, ReactRouter, Redux, Shadcn, TailwindCSS, Vite, Vue.
-- **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase. 
+- **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase.
   
 ## Socials
 
