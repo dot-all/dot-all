@@ -22,6 +22,6 @@ Recent graduate in Computer Science with a passion for web development. I have e
 - [CodePen](https://codepen.io/im-allan)
 - [Exercism](https://exercism.org/profiles/dot-all)
 - [LinkedIn](https://www.linkedin.com/in/im-allan/)
-- [getonboard]()
+- [getonboard](https://www.getonbrd.com/p/allan-quiroz)
 - Kaggle
 - Collab
