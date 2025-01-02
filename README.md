@@ -23,4 +23,4 @@ Recent graduate in Computer Science with a passion for web development. I have e
 - [Exercism](https://exercism.org/profiles/dot-all)
 - [LinkedIn](https://www.linkedin.com/in/im-allan/)
 - [getonboard](https://www.getonbrd.com/p/allan-quiroz)
-- [HackerRank]().
+- [HackerRank]()
