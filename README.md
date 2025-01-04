@@ -2,7 +2,7 @@
 <p align="center">Web Developer — Freelance </p>
 
 ## About Me
-Computer Engineer with over a year of experience in software development.. I have experience with React, Node, and other web technologies. I am always looking to learn new technologies and I am excited about the future of technology.
+Computer Engineer with over a year of experience in software development. I have experience with React, Node and other web technologies. I am always looking to learn new technologies and I am excited about the future of technology.
 
 - I'm based in Chile.
 - See my portfolio at .
@@ -12,7 +12,7 @@ Computer Engineer with over a year of experience in software development.. I hav
 
 ## Skills
 
-- **Languages:** Java, JavaScript, Python, TypeScript.
+- **Languages:** Java, JavaScript, Python, TypeScript, C#.
 
 - **Frameworks/Libraries/Environments:** Express, Jest, JWT, Next, NodeJS, React, ReactRouter, Redux, Shadcn, TailwindCSS, Vite, Vue.
 - **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase.
