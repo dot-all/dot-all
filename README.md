@@ -15,7 +15,7 @@ Computer Engineer with over a year of experience in software development. I have
 - **Languages:** Java, JavaScript, Python, TypeScript, C#.
 
 - **Frameworks/Libraries/Environments:** Express, Jest, JWT, Next, NodeJS, React, ReactRouter, Redux, Shadcn, TailwindCSS, Vite, Vue.
-- **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase.
+- **Tools:** Docker, Figma, Firebase, Git, Google Colab, Jupyter Notebook, MongoDB, Supabase, SQL Oracle.
   
 ## Socials
 
