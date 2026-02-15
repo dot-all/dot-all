@@ -2,33 +2,43 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Computer Engineer specializing in System Modernization and Cloud Computing.
+  Building high-quality, scalable applications for web and mobile.
   <br>
   Based in Chile.
 </p>
 
+---
+
 ## About
 
-I am a Computer Engineer with experience in the full software development lifecycle. My current professional focus is on **system modernization**: maintaining stability in legacy monolithic applications while architecting and migrating towards scalable **microservices** solutions using containerization and modern frontend frameworks.
+I am a Software Engineer focused on delivering complete product solutions. I combine strong backend expertise with modern frontend and mobile frameworks to build applications that are both robust and intuitive.
 
-I am passionate about cloud infrastructure and clean architecture, constantly bridging the gap between established systems and new technologies.
+My approach balances rapid development with engineering excellence. I have experience managing complex system architectures, optimizing legacy codebases, and designing scalable cloud infrastructure. Whether building a mobile app from scratch or scaling a backend service, I prioritize clean architecture, type safety, and a seamless user experience.
 
-- **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900).
-- **Current Goal:** Preparing for the AWS Certified Cloud Practitioner exam.
-- **Portfolio:** [Check my work here](https://github.com/dot-all/)
+I am driven by problem-solving and technical curiosity, constantly exploring new patterns in distributed systems and UI engineering.
+
+- **Core:** Full Stack Web & Mobile Development.
+- **Current Focus:** Mobile architecture with **Flutter** and Cloud patterns on **AWS**.
+- **Philosophy:** Clean Code, User-Centric Design, Scalability.
+- **Portfolio:** [allan.cl](https://allan.cl)
 
 ## Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Java, C# |
-| **Architecture & Cloud** | Docker, Microservices, Azure (AZ-900), AWS (In Progress) |
-| **Frontend** | React, Next.js, Vue, Redux, TailwindCSS |
-| **Backend** | Django, Django REST Framework, Node.js, Express |
-| **Data** | Oracle SQL, PostgreSQL, MongoDB, Supabase |
-| **Tools** | Git, Figma, Jest, Postman |
+| **Languages** | Python, TypeScript, Dart, JavaScript, Java, C# |
+| **Mobile & Frontend** | Flutter, React, Next.js, Vue, TailwindCSS |
+| **Backend** | Django, Node.js (Express), Django REST Framework |
+| **Cloud & DevOps** | AWS (In Progress), Azure (AZ-900), Docker, Git |
+| **Databases** | PostgreSQL, Oracle SQL, Supabase, MongoDB |
+| **Design & Tools** | Figma, Postman, Jest, Swiss Design Principles |
 
-## Socials
+## Certifications
+
+- **Microsoft Certified:** Azure Fundamentals (AZ-900)
+- **AWS:** Certified Cloud Practitioner (In Progress)
+
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/im-allan/)
 - [CodePen](https://codepen.io/im-allan)
