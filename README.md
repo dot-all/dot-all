@@ -26,11 +26,11 @@ I am driven by problem-solving and technical curiosity, constantly exploring new
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, Dart, JavaScript, Java, C# |
-| **Mobile & Frontend** | Flutter, React, Next.js, Vue, TailwindCSS |
-| **Backend** | Django, Node.js (Express), Django REST Framework |
+| **Languages** | Python, TypeScript, Dart, PHP, Java, C#, Go |
+| **Mobile & Frontend** | Flutter, React, Next.js, Vue, TailwindCSS, Angular |
+| **Backend** | Django, Node.js (Express), Django REST Framework, Spring Boot, .NET |
 | **Cloud & DevOps** | AWS (In Progress), Azure (AZ-900), Docker, Git |
-| **Databases** | PostgreSQL, Oracle SQL, Supabase, MongoDB |
+| **Databases** | PostgreSQL, Oracle SQL, Supabase, MongoDB, Postgres, DB2 |
 | **Design & Tools** | Figma, Postman, Jest, Swiss Design Principles |
 
 ## Certifications
